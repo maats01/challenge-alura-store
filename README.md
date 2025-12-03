@@ -81,8 +81,6 @@ Esse notebook tem como objetivo analisar dados de vendas de quatro filiais e dec
 <img src="https://github.com/maats01/challenge-alura-store/blob/main/assets/faturamentos_por_categoria.png" width="60%">
 
 ## 3. Frete médio por loja
-<style type="text/css">
-</style>
 <table id="T_dc375">
   <thead>
     <tr>
