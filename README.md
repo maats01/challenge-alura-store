@@ -81,29 +81,36 @@ Esse notebook tem como objetivo analisar dados de vendas de quatro filiais e dec
 <img src="https://github.com/maats01/challenge-alura-store/blob/main/assets/faturamentos_por_categoria.png" width="60%">
 
 ## 3. Frete médio por loja
-<table border="1" class="dataframe">
+<style type="text/css">
+</style>
+<table id="T_dc375">
   <thead>
-    <tr style="text-align: right;">
-      <th>Loja</th>
-      <th>Frete médio</th>
+    <tr>
+      <th class="blank level0" >&nbsp;</th>
+      <th id="T_dc375_level0_col0" class="col_heading level0 col0" >Loja</th>
+      <th id="T_dc375_level0_col1" class="col_heading level0 col1" >Frete médio</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Loja 1</td>
-      <td>34.691763</td>
+      <th id="T_dc375_level0_row0" class="row_heading level0 row0" >0</th>
+      <td id="T_dc375_row0_col0" class="data row0 col0" >Loja 1</td>
+      <td id="T_dc375_row0_col1" class="data row0 col1" >34,69</td>
     </tr>
     <tr>
-      <td>Loja 2</td>
-      <td>33.621971</td>
+      <th id="T_dc375_level0_row1" class="row_heading level0 row1" >1</th>
+      <td id="T_dc375_row1_col0" class="data row1 col0" >Loja 2</td>
+      <td id="T_dc375_row1_col1" class="data row1 col1" >33,62</td>
     </tr>
     <tr>
-      <td>Loja 3</td>
-      <td>33.074392</td>
+      <th id="T_dc375_level0_row2" class="row_heading level0 row2" >2</th>
+      <td id="T_dc375_row2_col0" class="data row2 col0" >Loja 3</td>
+      <td id="T_dc375_row2_col1" class="data row2 col1" >33,07</td>
     </tr>
     <tr>
-      <td>Loja 4</td>
-      <td>31.279042</td>
+      <th id="T_dc375_level0_row3" class="row_heading level0 row3" >3</th>
+      <td id="T_dc375_row3_col0" class="data row3 col0" >Loja 4</td>
+      <td id="T_dc375_row3_col1" class="data row3 col1" >31,28</td>
     </tr>
   </tbody>
 </table>
