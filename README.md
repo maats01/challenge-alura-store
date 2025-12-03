@@ -108,7 +108,7 @@ Esse notebook tem como objetivo analisar dados de vendas de quatro filiais e dec
   </tbody>
 </table>
 
-<img src="https://github.com/maats01/challenge-alura-store/blob/main/assets/frete_medio.png" width="60%">
+<img src="https://github.com/maats01/challenge-alura-store/blob/main/assets/frete_medio_por_loja.png" width="60%">
 
 # Instruções para executar o notebook
 Para visualizar e executar a análise diretamente no seu navegador, clique no botão abaixo:
