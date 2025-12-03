@@ -35,48 +35,60 @@ Esse notebook tem como objetivo analisar dados de vendas de quatro filiais e dec
 <img src="https://github.com/maats01/challenge-alura-store/blob/main/assets/faturamentos_por_loja.png" width="60%">
 
 ## 2. Faturamento por categoria
-<table border="1" class="dataframe">
+<style type="text/css"></style>
+<table id="T_f7a11">
   <thead>
-    <tr style="text-align: right;">
-      <th>Categoria do Produto</th>
-      <th>Faturamento Total</th>
+    <tr>
+      <th class="blank level0" >&nbsp;</th>
+      <th id="T_f7a11_level0_col0" class="col_heading level0 col0" >Categoria do Produto</th>
+      <th id="T_f7a11_level0_col1" class="col_heading level0 col1" >Faturamento Total</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>eletronicos</td>
-      <td>2214099.72</td>
+      <th id="T_f7a11_level0_row0" class="row_heading level0 row0" >2</th>
+      <td id="T_f7a11_row0_col0" class="data row0 col0" >eletronicos</td>
+      <td id="T_f7a11_row0_col1" class="data row0 col1" >2.214.099,72</td>
     </tr>
     <tr>
-      <td>eletrodomesticos</td>
-      <td>1766337.03</td>
+      <th id="T_f7a11_level0_row1" class="row_heading level0 row1" >1</th>
+      <td id="T_f7a11_row1_col0" class="data row1 col0" >eletrodomesticos</td>
+      <td id="T_f7a11_row1_col1" class="data row1 col1" >1.766.337,03</td>
     </tr>
     <tr>
-      <td>moveis</td>
-      <td>1010214.00</td>
+      <th id="T_f7a11_level0_row2" class="row_heading level0 row2" >6</th>
+      <td id="T_f7a11_row2_col0" class="data row2 col0" >moveis</td>
+      <td id="T_f7a11_row2_col1" class="data row2 col1" >1.010.214,00</td>
     </tr>
     <tr>
-      <td>instrumentos musicais</td>
-      <td>465029.67</td>
+      <th id="T_f7a11_level0_row3" class="row_heading level0 row3" >4</th>
+      <td id="T_f7a11_row3_col0" class="data row3 col0" >instrumentos musicais</td>
+      <td id="T_f7a11_row3_col1" class="data row3 col1" >465.029,67</td>
     </tr>
     <tr>
-      <td>esporte e lazer</td>
-      <td>190635.39</td>
+      <th id="T_f7a11_level0_row4" class="row_heading level0 row4" >3</th>
+      <td id="T_f7a11_row4_col0" class="data row4 col0" >esporte e lazer</td>
+      <td id="T_f7a11_row4_col1" class="data row4 col1" >190.635,39</td>
     </tr>
     <tr>
-      <td>brinquedos</td>
-      <td>98140.86</td>
+      <th id="T_f7a11_level0_row5" class="row_heading level0 row5" >0</th>
+      <td id="T_f7a11_row5_col0" class="data row5 col0" >brinquedos</td>
+      <td id="T_f7a11_row5_col1" class="data row5 col1" >98.140,86</td>
     </tr>
     <tr>
-      <td>utilidades domesticas</td>
-      <td>76773.38</td>
+      <th id="T_f7a11_level0_row6" class="row_heading level0 row6" >7</th>
+      <td id="T_f7a11_row6_col0" class="data row6 col0" >utilidades domesticas</td>
+      <td id="T_f7a11_row6_col1" class="data row6 col1" >76.773,38</td>
     </tr>
     <tr>
-      <td>livros</td>
-      <td>50260.74</td>
+      <th id="T_f7a11_level0_row7" class="row_heading level0 row7" >5</th>
+      <td id="T_f7a11_row7_col0" class="data row7 col0" >livros</td>
+      <td id="T_f7a11_row7_col1" class="data row7 col1" >50.260,74</td>
     </tr>
   </tbody>
 </table>
+
+
 
 <img src="https://github.com/maats01/challenge-alura-store/blob/main/assets/faturamentos_por_categoria.png" width="60%">
 
